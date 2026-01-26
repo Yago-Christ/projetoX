@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/neobank-digital/static/css/main.84314d1d.css",
+    "main.js": "/neobank-digital/static/js/main.3cc17008.js",
+    "index.html": "/neobank-digital/index.html",
+    "main.84314d1d.css.map": "/neobank-digital/static/css/main.84314d1d.css.map",
+    "main.3cc17008.js.map": "/neobank-digital/static/js/main.3cc17008.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84314d1d.css",
+    "static/js/main.3cc17008.js"
+  ]
+}
